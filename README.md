@@ -1,6 +1,6 @@
 ## qa-kit
 
-A small Claude Code plugin that bundles a PR-summary command and a code-review subagent.
+A small Claude Code plugin that bundles a PR-summary command and a code-review subagent, ready to load with `claude --plugin-dir .`.
 
 ### What it does
 
